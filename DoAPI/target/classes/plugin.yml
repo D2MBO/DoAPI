@@ -1,7 +1,0 @@
-name: DoAPI
-version: '1.0'
-main: d2mbo.world.api.DoAPI
-api-version: '1.21'
-softdepend:
-  - WorldLoader
-authors: [2MBO]
